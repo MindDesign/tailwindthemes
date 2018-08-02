@@ -1,5 +1,7 @@
 # MDTwo
 
+<a href="https://github.com/MindDesign/tailwindthemes/blob/mdTwo/screenshot_big.jpg"><img align="right" src="https://raw.githubusercontent.com/MindDesign/tailwindthemes/mdTwo/screenshot.jpg" width="200"></a>
+
 Simple responsive HTML template using the fantastic [Tailwind CSS Framework](https://tailwindcss.com/). All images are from [Pexels](https://pexels.com/).
 
 ### Synopsis
