@@ -69,12 +69,3 @@
      box-sizing: content-box;
    }
  }
-
-@responsive {
-  .scale-07 {
-    transform: scale(.7);
-  }
-  .scale-1 {
-    box-sizing: content-box;
-  }
-}
