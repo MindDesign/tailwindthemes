@@ -4,10 +4,6 @@
 
 Simple responsive HTML template using the fantastic [Tailwind CSS Framework](https://tailwindcss.com/). All images are from [Pexels](https://pexels.com/).
 
-### Synopsis
-
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
-
 ### Motivation
 
 Created and shared in the hope that someone will find use for it.
